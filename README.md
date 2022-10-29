@@ -33,3 +33,4 @@ Hello, my name is Prathap Rathod and I am a Graduate student at PDIT College in 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathaprathod&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prathaprathod.prathaprathod)
+![](https://komarev.com/ghpvc/?username=prathaprathod&color=brightgreen)
