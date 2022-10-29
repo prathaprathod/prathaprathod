@@ -32,6 +32,7 @@ Hello, my name is Prathap Rathod and I am a Graduate student at PDIT College in 
 
 ![Rathod's Github Stats](https://github-readme-stats.vercel.app/api?username=prathaprathod&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathaprathod&hide=TeX&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathaprathod&" alt="Prathap Rathod" /></p>
 
 ![](https://komarev.com/ghpvc/?username=prathaprathod&color=brightgreen)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prathaprathod.prathaprathod)
