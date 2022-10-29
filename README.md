@@ -13,6 +13,7 @@
 -->
 
 Hello, my name is Prathap Rathod and I am a Graduate student at PDIT College in Civil Engineer. My technology stack involves Java/J2EE, Maven, MySQL, javascript, and linux basics, git. Besides programming, I have an immense interest in watching movies.
+
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: me@prathaprathod.in
 - 😄 Pronouns: Programmer/he
